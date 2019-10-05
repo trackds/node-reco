@@ -1,0 +1,27 @@
+{
+  "name": "node-reco",
+  "version": "1.0.0",
+  "description": "Reco LAN control API",
+  "main": "reco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trackds/node-reco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trackds/node-reco/issues"
+  },
+  "homepage": "https://github.com/trackds/node-reco#readme",
+  "files": [
+    "reco.js",
+    "reco.d.ts"
+  ],
+  "devDependencies": {
+    "@types/node": "^12.7.11"
+  }
+}
